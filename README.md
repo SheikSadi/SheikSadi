@@ -1,20 +1,21 @@
-# Sheik Sadi Rohmotullah
+<h1 align="center">
+  Sheik Sadi Rohmotullah
+</h1>
+<p align="center">
 Electrical and Electronics Engineer with 2 years Back-end Python development experience. Proven ability to develop robust and scalable software. Expertise in MongoDB, ElasticSearch, FastAPI, GCP, and NLP. Experience in recommender systems, data pipelines, and machine learning.
-
-<p align="center">
-  <b>Backend | Data Science | NLP</b>
 </p>
+<h2 align="center">
+  Backend | DevOps | NLP
+</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mongodb,fastapi,gcp,docker,git,github,linux,tensorflow" />
+  <a href="https://www.linkedin.com/in/sheik-sadi-rohmotullah/">
+    <img src="https://skillicons.dev/icons?i=py,mongodb,fastapi,gcp,docker,git,github,linux,tensorflow,go,redis,flask,aws,kubernetes,cpp,java,ai,pytorch&perline=9" />
   </a>
 </p>
 
 ## OPEN-SOURCE PROJECTS
-### Smart-cropping Images with Saliency Mapping 
-Crop and bound-box interesting regions of an image (smart cropping) from saliency maps generated with SAM-LSTM-RESNET model
-
-GitHub Repo: https://github.com/SheikSadi/SAM-LSTM-RESNET
+# [Smart-cropping Images with Saliency Mapping](https://sheiksadi.github.io/SAM-LSTM-RESNET/)
+**Crop and bound-box interesting regions of an image (smart cropping) from saliency maps generated with SAM-LSTM-RESNET model** (details [here](https://sheiksadi.github.io/SAM-LSTM-RESNET/))
 
 ![image](https://github.com/SheikSadi/SheikSadi/assets/34588815/ceac1dbc-338b-48df-b90e-055bee4914d1)
 
@@ -44,8 +45,8 @@ The primary product/service at [CONCURED](https://concured.com/) is the Recommen
 - **Keyword Extraction and labelling with WikiData using YAKE algorithm and text embeddings (NLP)**
 
 ## TECHNICAL SKILLS
-- **Languages**: Python (Expert with 3+ years of experience), Java, Go, JavaScript
-- **Cloud Infrastructure**: GCP
+- **Languages**: Python (Expert with 3+ years of experience), Java, Go, C/C++
+- **Cloud Infrastructure**: GCP (Exper with 2 years of experience), AWS
 - **Databases**: NoSQL: MongoDB, ElasticSearch, Redis; SQL: BigQuery
 - **Frameworks**: FastAPI, Flask
 - **Container Orchestration**: Docker, Kubernetes
@@ -53,24 +54,9 @@ The primary product/service at [CONCURED](https://concured.com/) is the Recommen
 - **Parallelism**: AsyncIO
 - **Data Science**: Pandas, NumPy, SciPy, Scikit-Learn, NLTK
 - **OS**: Linux, Windows
-- **Machine Learning**: TensorFlow
+- **Machine Learning**: TensorFlow, PyTorch
 
 ## Contact
 Mail me at [biis.saadi@gmail.com](mailto:biis.saadi@gmail.com)
-
-LinkedIn: [https://www.linkedin.com/in/sheik-sadi-rohmotullah/](https://www.linkedin.com/in/sheik-sadi-rohmotullah/)
-
-<!--
-**SheikSadi/SheikSadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+LinkedIn: [https://www.linkedin.com/in/sheik-sadi-rohmotullah/](https://www.linkedin.com/in/sheik-sadi-rohmotullah)
