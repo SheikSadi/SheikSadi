@@ -1,9 +1,4 @@
 # Sheik Sadi Rohmotullah
-<p align="center">
-  <a href="https://www.linkedin.com/in/sheik-sadi-rohmotullah/">
-    <img src="https://github.com/SheikSadi/SheikSadi/assets/34588815/fe3b465d-4474-4134-9c5c-8fb2aa4f718c" />
-  </a>
-</p>
 Electrical and Electronics Engineer with 2 years Back-end Python development experience. Proven ability to develop robust and scalable software. Expertise in MongoDB, ElasticSearch, FastAPI, GCP, and NLP. Experience in recommender systems, data pipelines, and machine learning.
 
 <p align="center">
