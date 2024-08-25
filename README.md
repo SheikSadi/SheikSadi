@@ -13,6 +13,8 @@ Software Engineer specialized in Back-end development with Python. 3 years of pr
   </a>
 </p>
 
+> See my complete CV on [Google Drive](https://drive.google.com/file/d/1phGJ85X4jE2QxLUq6CFmNH6BF7s_uAQA/view?usp=sharing)
+
 ## PROFESSIONAL EXPERIENCE
 ### ELELEM AI, UK
 (Formerly CONCURED Limited)
@@ -113,16 +115,18 @@ The primary product/service at CONCURED is the Recommendations System and its as
 ![image](https://github.com/SheikSadi/SheikSadi/assets/34588815/ceac1dbc-338b-48df-b90e-055bee4914d1)
 
 ## TECHNICAL SKILLS
-- **Languages**: Python (Expert with 3+ years of experience), Java, Go, C/C++
-- **Cloud Infrastructure**: GCP (Exper with 2 years of experience), AWS
-- **Databases**: NoSQL: MongoDB, ElasticSearch, Redis; SQL: BigQuery
-- **Frameworks**: FastAPI, Flask
-- **Container Orchestration**: Docker, Kubernetes
-- **CI/CD**: PyTest, GitHub actions
-- **Parallelism**: AsyncIO
-- **Data Science**: Pandas, NumPy, SciPy, Scikit-Learn, NLTK
-- **OS**: Linux, Windows
-- **Machine Learning**: TensorFlow, PyTorch
+- **Languages:** Python (Expert with 3+ years of experience), JavaScript: React/NextJS (intermediate)
+- **Databases:** NoSQL: MongoDB, ElasticSearch, Redis; SQL: BigQuery
+- **Backend Frameworks:** FastAPI, Django, Flask
+- **Agentic Frameworks:** LangChain, LangGraph
+- **ML Frameworks:** TensorFlow, PyTorch, ONNX (NVIDIA CUDA as backend)
+- **Container Orchestration:** Docker, Kubernetes
+- **CI/CD:** GitHub actions, Cloud Build (GCP)
+- **Parallelism:** AsyncIO
+- **Data Science Stack:** Pandas, NumPy, SciPy, Scikit-Learn, NLTK
+- **OS:** Linux, Windows
+- **Cloud Infrastructure:** GCP (Expert with 2.5 years of experience), AWS (Personal Web Development projects)
+- **DevOps | System Architecture | Team Lead**
 
 ## Contact
 Mail me at [biis.saadi@gmail.com](mailto:biis.saadi@gmail.com)
