@@ -15,6 +15,9 @@ Software Engineer specialized in Back-end development with Python. 3 years of pr
 
 > See my complete CV on [Google Drive](https://drive.google.com/file/d/1phGJ85X4jE2QxLUq6CFmNH6BF7s_uAQA/view?usp=sharing)
 
+> [!IMPORTANT]
+> I have not updated this text for quite a long time. My CV in the drive link is much more up to date. 
+
 ## PROFESSIONAL EXPERIENCE
 ### ELELEM AI, UK
 (Formerly CONCURED Limited)
