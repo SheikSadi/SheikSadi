@@ -1,137 +1,148 @@
-<h1 align="center">
-  Sheik Sadi Rohmotullah
-</h1>
-<p align="center">
-Software Engineer specialized in Back-end development with Python. 3 years of professional experience in building robust and scalable software. Expertise in FastAPI, MongoDB, ElasticSearch, GCP, LangChain and NLP. Experience in recommender systems, data pipelines, machine learning and generative AI.
-</p>
-<h2 align="center">
-  Backend | DevOps | GenAI
-</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/sheik-sadi-rohmotullah/">
-    <img src="https://skillicons.dev/icons?i=py,elasticsearch,mongodb,fastapi,gcp,docker,git,github,linux,tensorflow,ai,redis,flask,aws,kubernetes,js,react,pytorch&perline=9" />
-  </a>
-</p>
+# 👋 Hey there! I'm Sadi
 
-> See my complete CV on [Google Drive](https://drive.google.com/file/d/1phGJ85X4jE2QxLUq6CFmNH6BF7s_uAQA/view?usp=sharing)
+<div align="center">
+  
+**Lead Engineer @ ELELEM AI | Building AI-Powered Dreams | Team Catalyst**
 
-> [!IMPORTANT]
-> I have not updated this text for quite a long time. My CV in the drive link is much more up to date. 
+*Transforming ideas into intelligent systems, one line of code at a time* ✨
 
-## PROFESSIONAL EXPERIENCE
-### ELELEM AI, UK
-(Formerly CONCURED Limited)
-Mar 2024 – Present
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sheik-sadi-rohmotullah/)
+[![Email](https://img.shields.io/badge/Email-biis.saadi@gmail.com-red?style=flat&logo=gmail)](mailto:biis.saadi@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-green?style=flat&logo=google-maps)](https://www.google.com/maps/place/Dhaka)
 
-**Overview**
+</div>
 
-ELELEM AI is an R&D venture exploring the potential of using State-of-the-Art AI technology to provide solutions for businesses. We primarily leverage the power of Large Language Models (LLM) to build automated agents. At ELELEM AI, we research the latest advances in the field of AI and LLM, propose new problems to be solved, and find their solutions. As a continuation of CONCURED LTD. with a renewed vision, we maintain many of its services, such as the Recommendations API.
+---
 
-#### Roles:
+## 🚀 What I'm Up To
 
-##### 1. Software Engineer (Backend) (May 2024 - Present)
-* **Responsibilities:**
-  * Research and Development: Automated agents using LLM
-    * Researching the state of the art AI technologies
-    * Exploring the potential of LLM in order to build automated solutions
-    * Prototyping agents with LLM frameworks like LangChain, LangGraph
-  * Recommender System and API maintenance
-    * Maintaining the REST API services providing recommendations (FastAPI)
-    * Maintaining Backend processes, data pipelines for the recommender system
-    * Maintaining the overall cloud native system (GCP)
+Currently orchestrating engineering magic at **ELELEM AI** in the UK, where I lead brilliant minds to craft cutting-edge Generative AI platforms. Think of me as the conductor of a tech symphony, turning ambitious visions into scalable reality.
 
-### EBLICT, Govt. of Bangladesh
+**Fun fact:** I've coded my way through 3 continents and 4+ years of making the impossible possible! 🌍
 
-**Overview**
+---
 
-EBLICT stands for Enhancement of Bengali Language in ICT through the Research & Development, a division of the Ministry of Posts, Telecommunications and IT of the Government of Bangladesh. Under EBLICT, I have been working as a Software Engineer responsible for building the system from a Backend perspective. This involves designing the system architecture, overseeing development of Backend and Frontend APIs. This is a project that involves multiple teams dedicated to developing and implementing the machine learning model, building websites and apps with Frontend development, managing different platforms for managing data and operation. My role here is to take the lead in communication and collaboration between all the teams.
+## 💡 The Story So Far
 
-##### 1. Software Engineer (Backend) (Jan 2024 - June 2024)
-* **Responsibilities:**
-  * Backend Lead
-    * System Architecture Design and Implementation for the "Virtual Private Assistant (SD-20)" project
+I'm an EEE graduate from BUET who fell head-over-heels for AI and never looked back. My journey? A thrilling ride from circuit boards to cloud infrastructure, from solo coding sessions to leading international teams.
 
-### Hiperdyne Corporation, Japan
-Dec 2023 – Feb 2024
+**What makes me tick:**
+- 🎯 **Team Whisperer** — I don't just build products; I build people. Recruiting rock stars, mentoring future leaders, and creating spaces where innovation thrives
+- 🤝 **Bridge Builder** — That rare engineer who speaks both fluent Python *and* fluent human. CTOs love me, developers trust me, and stakeholders get me
+- 🧠 **AI Enthusiast** — From NLP to computer vision, agentic workflows to LLMs, I'm deep in the trenches of what's next in AI
+- 🌏 **Global Citizen** — Worked across Bangladesh, UK, and Japan. Yes, I code in Japanese too (会話できます! 🇯🇵)
 
-**Overview**
+---
 
-At Hiperdyne Corporation, I worked as an AI Engineer in both R&D and application development for 3 months. I researched Jailbreak in LLM and developed Computer vision applications. I did not renew my contract after the 3-month probation period, as the other company (Concured) I was committed to offered me a new and better contract with promotion to a more managerial role that requires more productivity and commitment. However, my time with the Japanese was really helpful in terms of interacting with people from a very different social and cultural background. It provided me useful insights and helped me grow as an Engineer in a multicultural setup.
+## 🛠️ My Tech Playground
 
-##### 1. Artificial Intelligence Engineer (Dec 2023 - Feb 2024)
-* **Responsibilities:**
-  * Computer Vision Project: Face Privacy of Images & Videos
-    * Using different face detection models to hide the identity of selective individuals in image/video
-  * NLP/LLM Project: Research on Jailbreaking of Large Language Models e.g. ChatGPT
-    * Collected and studied research papers related to the security of Large Language Models in terms of its alignment to AI ethics. Explored various works done so far from both an attacking and defending perspective. A clear understanding of "jailbreaking" is crucial in securely deploying any public-facing service leveraging LLM or AI for production.
+**Languages I Dream In:**
+```python
+expertise = {
+    "python": "Expert ⭐⭐⭐",
+    "javascript": "Intermediate ⭐⭐",
+    "japanese": "Conversational 日本語 ⭐⭐"
+}
+```
 
-### CONCURED Limited, UK
-(Rebranded to ELELEM AI from Dec'23)
-Feb 2022 – Feb 2024
+**The Arsenal:**
+- **Data Powerhouses:** MongoDB, ElasticSearch, Redis, BigQuery, PostgreSQL
+- **AI/ML Magic:** TensorFlow, PyTorch, LangChain, LangGraph, ONNX
+- **Backend Brilliance:** FastAPI, Django, Flask (Python is my canvas)
+- **Cloud Mastery:** GCP Expert, AWS Proficient
+- **DevOps Toolbelt:** Docker, Kubernetes, GitHub Actions, Cloud Build
+- **Data Science Stack:** Pandas, NumPy, Scikit-Learn, NLTK
 
-**Overview**
+---
 
-The primary product/service at CONCURED is the Recommendations System and its associated API. The recommendations provided are links to content/articles web pages generated for other content/articles pages. During my tenure at the company in various roles, I developed models for generating recommendations, data pipelines for the pre-processing steps of data crawling/scraping and data wrangling (finding keywords, text embeddings), served recommendations as REST API, and performed DevOps tasks to deploy all of these processes on GCP.
+## 🎯 Career Highlights
 
-#### Roles:
+### 🏢 **ELELEM AI, UK** — *Lead Engineer*
+**Nov 2025 – Present**
 
-##### 1. Back-end Developer (Jul 2023 - Feb 2024)
-* **Responsibilities:**
-  * Recommender System and API maintenance
-    * Contribute to the REST API providing recommendations (FastAPI)
-    * Data analysis and visualization to evaluate the recommendations
-    * Leadership and supervising junior members
-    * Maintaining Backend processes, data pipelines for the recommender system
-  * Performance Evaluation of the recommendation models
-    * Stored and analyzed user information (requests and response) with Google's BigQuery
-    * Developed methods to evaluate and compare models based on various performance metrics
-    * Collaborated with team members to build Looker dashboards and write interactive Jupyter notebooks for data visualization
-  * Modularizing services and encapsulating them as microservices and API
-    * Divide complex data pipelines and process entanglement on GCP into smaller blocks of microservices
-    * Use micro-services as stand-alone APIs and refactor backend processes to consume them
-    * Refactor system architecture after careful design planning
-    * Expose micro-services as 3rd party services to potential users for usage in production
-* **Projects:**
-  * Development of Vector based recommendation model using text embeddings to generate user Interest Profile
-    * Description:
-      * Development of a new model using Natural Language Processing (NLP) providing better and more accurate recommendations. The model was deployed on Cloud Run (GCP). The model works by clustering documents into an embedding space, then finding the right cluster for a user based on their profile.
-      * Prototyping the model for testing, beta release for A/B testing.
-      * Enhancing the model latency by improving the design architecture with optimal technology choices.
-      * Technologies used for generating text embeddings include the GloVe model trained on Wikipedia (2014) with Gensim and the PMMBv2 model from HuggingFace with SentenceTransformers
-    * Outcome:
-      * Successfully built a new recommendation model using free and open-source tools ensuring excellent accuracy and speed. The addition of the new model provided depth and versatility of recommendation model stack.
+The dream job where I get to:
+- 🔍 Hunt for unicorns (a.k.a. exceptional engineers worldwide)
+- 🎓 Turn talented developers into tech wizards through mentorship
+- 🗺️ Co-create the technical roadmap with our CTO
+- 🚢 Captain product releases from concept to deployment
+- 🌉 Build bridges between teams, technologies, and time zones
 
-##### 2. Junior Back-end Developer (Jun 2022 - May 2023)
-* **Responsibilities:**
-  * Maintaining Backend processes and the data pipeline
-  * Developing new Backend processes
-  * QA, testing and monitoring all backend processes
+### 📚 **The Journey Before:**
+- **Backend Software Engineer** @ ELELEM AI (2024-2025) — Where I proved my chops
+- **Backend Lead** @ EBLICT, Govt. of Bangladesh (2024) — Serving the nation through code
+- **AI Engineer** @ Hiperdyne Corporation, Japan (2023-2024) — My Japanese adventure 🗾
+- **Backend Developer** @ CONCURED Limited, UK (2022-2024) — Where it all accelerated
 
-##### 3. NLP Intern (Feb 2022- May 2022)
-* **Projects:**
-  * Keyword Extraction and labeling with WikiData using YAKE algorithm and text embeddings (NLP)
+---
 
-## OPEN-SOURCE PROJECTS
-# [Smart-cropping Images with Saliency Mapping](https://sheiksadi.github.io/SAM-LSTM-RESNET/)
-**Crop and bound-box interesting regions of an image (smart cropping) from saliency maps generated with SAM-LSTM-RESNET model** (details [here](https://sheiksadi.github.io/SAM-LSTM-RESNET/))
+## 🎨 Cool Projects I've Built
+
+### [SAM-LSTM-RESNET](https://github.com/SheikSadi/SAM-LSTM-RESNET)
+*Saliency-based Smart Image Cropping*
+
+Teaching machines to see what matters — because not all pixels are created equal! Uses computer vision magic to intelligently crop images based on visual importance.
 
 ![image](https://github.com/SheikSadi/SheikSadi/assets/34588815/ceac1dbc-338b-48df-b90e-055bee4914d1)
 
-## TECHNICAL SKILLS
-- **Languages:** Python (Expert with 3+ years of experience), JavaScript: React/NextJS (intermediate)
-- **Databases:** NoSQL: MongoDB, ElasticSearch, Redis; SQL: BigQuery
-- **Backend Frameworks:** FastAPI, Django, Flask
-- **Agentic Frameworks:** LangChain, LangGraph
-- **ML Frameworks:** TensorFlow, PyTorch, ONNX (NVIDIA CUDA as backend)
-- **Container Orchestration:** Docker, Kubernetes
-- **CI/CD:** GitHub actions, Cloud Build (GCP)
-- **Parallelism:** AsyncIO
-- **Data Science Stack:** Pandas, NumPy, SciPy, Scikit-Learn, NLTK
-- **OS:** Linux, Windows
-- **Cloud Infrastructure:** GCP (Expert with 2.5 years of experience), AWS (Personal Web Development projects)
-- **DevOps | System Architecture | Team Lead**
+**More exciting stuff coming soon!** 🚧
 
-## Contact
-Mail me at [biis.saadi@gmail.com](mailto:biis.saadi@gmail.com)
-<br>
-LinkedIn: [https://www.linkedin.com/in/sheik-sadi-rohmotullah/](https://www.linkedin.com/in/sheik-sadi-rohmotullah)
+---
+
+## 🎓 Academic Cred
+
+**B.Sc. in Electrical and Electronics Engineering**  
+*Bangladesh University of Engineering and Technology (BUET), 2021*
+
+Plus a treasure trove of certifications from Coursera:
+- Neural Networks & Deep Learning
+- Machine Learning
+- Applied ML in Python
+- Data Science Math Skills
+- Mathematics for ML (Linear Algebra & PCA)
+- ... and more!
+
+---
+
+## 🌏 The Japan Connection
+
+**日本で働きたいです！** (I want to work in Japan!)
+
+Having experienced the incredible tech culture in Japan firsthand, I'm actively seeking opportunities to contribute to Japanese innovation. Whether it's Tokyo, Osaka, or anywhere in between — let's build the future together! 🇯🇵🤝
+
+**Why Japan?**
+- Deep respect for craftsmanship and quality
+- Fascination with cutting-edge tech culture
+- Love for collaborative problem-solving
+- Already have conversational Japanese skills
+
+---
+
+## 💬 Let's Connect!
+
+I'm always excited to chat about:
+- 🤖 AI innovations and the future of GenAI
+- 👥 Building and scaling engineering teams
+- 🌉 Cross-cultural tech collaboration
+- 🇯🇵 Opportunities in Japan
+- ☕ Life, the universe, and clean code
+
+**Reach out:**
+- 📧 Email: [biis.saadi@gmail.com](mailto:biis.saadi@gmail.com)
+- 💼 LinkedIn: [Let's Connect!](https://www.linkedin.com/in/sheik-sadi-rohmotullah/)
+- 📞 +880-1973-908-532
+
+---
+
+<div align="center">
+
+### 🌟 "Great software is built by great teams. Great teams are built on trust, growth, and endless curiosity."
+
+**Currently:** Leading teams 🚀 | **Next:** Your ambitious project? 🤔
+
+*Let's build something amazing together!*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=SheikSadi&color=blueviolet&style=flat-square)
+
+</div>
